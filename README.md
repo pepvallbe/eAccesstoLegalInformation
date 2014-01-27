@@ -1,4 +1,4 @@
-eAccesstoLegalInformation
+e-Access to Legal Information
 =========================
 
-e-Acess to Legal Information Indicators
+A composite indicator of e-Acess to Legal Information
